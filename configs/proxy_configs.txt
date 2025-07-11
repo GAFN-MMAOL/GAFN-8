@@ -6,5 +6,5 @@
 
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@23.132.228.217:32219/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@23.132.228.217:37870/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
